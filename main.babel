@@ -232,8 +232,8 @@ window.onload = function () {
 // Typign Effect
 
 var typed = new Typed(".type", {
-  strings: ["Frontend", "Business", "Investment"],
-  typeSpeed: 200,
-  backSpeed: 200,
+  strings: ["Blockchain", "Business", "Sales"],
+  typeSpeed: 150,
+  backSpeed: 150,
   loop: true,
 });
